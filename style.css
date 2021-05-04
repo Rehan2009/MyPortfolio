@@ -1,0 +1,33 @@
+h1 {
+    color: #123456;
+  
+
+}
+
+.menu {
+    border:solid;
+    
+    
+}
+
+.firstrow {
+    border:solid;
+    display:flex;
+    justify-content:space-evenly;
+
+}
+
+.secondrow {
+    border:solid;
+    display:flex;
+    justify-content:space-evenly;
+}
+
+p {
+    text-align: center;
+}
+
+body{
+    background-color:#256545;
+    background-image:url("fb.png");
+}
